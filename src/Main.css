@@ -1,0 +1,16 @@
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 50px
+}
+.Main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.task {
+    margin-right: 10px;
+}
